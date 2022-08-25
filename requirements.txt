@@ -24,6 +24,8 @@ charset-normalizer==2.1.1
     # via
     #   aiohttp
     #   requests
+click==8.1.3
+    # via uvicorn
 diffusers==0.2.4
     # via -r requirements.in
 fastapi==0.80.0
@@ -47,6 +49,8 @@ google-auth-oauthlib==0.4.6
     # via tensorboard
 grpcio==1.47.0
     # via tensorboard
+h11==0.13.0
+    # via uvicorn
 huggingface-hub==0.9.0
     # via
     #   diffusers
@@ -166,6 +170,8 @@ typing-extensions==4.3.0
     #   torch
 urllib3==1.26.12
     # via requests
+uvicorn==0.18.3
+    # via -r requirements.in
 werkzeug==2.2.2
     # via tensorboard
 wheel==0.37.1

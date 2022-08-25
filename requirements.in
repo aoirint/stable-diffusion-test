@@ -3,4 +3,5 @@ transformers
 scipy
 pydantic
 fastapi
+uvicorn
 pytorch-lightning
