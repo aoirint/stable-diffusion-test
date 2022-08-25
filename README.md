@@ -22,13 +22,13 @@ Create a HuggingFace account.
 
 - <https://huggingface.co/join>
 
-Create a token for your HuggingFace account.
-
-- <https://huggingface.co/settings/tokens>
-
 (maybe skippable: Get access to the stable-diffusion weights.)
 
 - <https://huggingface.co/CompVis>
+
+Create a token for your HuggingFace account.
+
+- <https://huggingface.co/settings/tokens>
 
 Login CLI with the token.
 
