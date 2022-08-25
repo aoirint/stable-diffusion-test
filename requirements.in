@@ -1,0 +1,6 @@
+diffusers
+transformers
+scipy
+pydantic
+fastapi
+pytorch-lightning

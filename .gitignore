@@ -1,0 +1,5 @@
+/outputs
+/output*
+
+__pycache__/
+*.png
