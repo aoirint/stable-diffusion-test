@@ -61,9 +61,7 @@ idna==3.3
     #   requests
     #   yarl
 importlib-metadata==4.12.0
-    # via
-    #   diffusers
-    #   markdown
+    # via diffusers
 markdown==3.4.1
     # via tensorboard
 markupsafe==2.1.1
@@ -80,7 +78,7 @@ numpy==1.23.2
     #   tensorboard
     #   torchmetrics
     #   transformers
-oauthlib==3.2.0
+oauthlib==3.2.1
     # via requests-oauthlib
 packaging==21.3
     # via
@@ -166,7 +164,6 @@ typing-extensions==4.3.0
     #   huggingface-hub
     #   pydantic
     #   pytorch-lightning
-    #   starlette
     #   torch
 urllib3==1.26.12
     # via requests
